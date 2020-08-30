@@ -1,12 +1,28 @@
 {
     "students": [
-        "Marcos Oliveira",
-        "Pedro Lúcio",
-        "Eduardo Senra",
-        "Lincoln Moura",
-        "Guilherme Amaral",
-        "Carlos Junior",
-        "Guilherme Franzoni",
-        "Guilherme Cordeiro"
+        {
+            "name": "Marcos Oliveira",
+            "call": 0
+        },
+        {
+            "name": "Pedro Lúcio",
+            "call": 0
+        },
+                {
+            "name": "Guilherme Franzoni",
+            "call": 0
+        },
+        {
+            "name": "Eduardo Senra",
+            "call": 0
+        },
+        {
+            "name": "Guilherme Cordeiro",
+            "call": 0
+        },
+        {
+            "name": "Guilherme Amaral",
+            "call": 0
+        }
     ]
 }
